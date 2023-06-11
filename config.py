@@ -1,0 +1,1 @@
+TOKEN_API = "6120633600:AAGTncNkHIQfIJ9eaXQZxGLJtZuZB_4t__I"  # авторизационный токен для подключению к телеграм API
